@@ -12,7 +12,7 @@
 - Set your goal by graduation
 
 ## Different levels of proficiency:
-**Beginner:** You have some background knowledeg in algebra/geometry/probability/calculus, but have little math training.  
+**Beginner:** You have some background knowledege in algebra/geometry/probability/calculus, but have little math training.  
 
 **Moderate:** You have a background in math/stats, and know how ML algorithms work in general. You may have some working knowledge on how data and ML algorithms marry.  
 
