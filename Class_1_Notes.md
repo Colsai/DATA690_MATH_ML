@@ -1,6 +1,6 @@
 # Class 1 Notes
 
-## Teaching Philosophy: Practicality-driven
+## Teaching Philosophy- Practicality-driven:
 - Understand your goals and backgrounds
 - Status of the tech job market (DA, DS, MLE, SWE, PM)
 - Start Slow (in 4-5 weeks, pick up pace)
