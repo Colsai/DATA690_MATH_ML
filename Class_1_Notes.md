@@ -21,3 +21,7 @@
 **Mastered it Well:** You can hardcode ML algorithms such as decision trees, RF, DNN. You know exactly what potential problems are when an algorithm isn't working.  
 
 **Kudos to you:** You can hardcode advanced ML algorithms such as CNN, LSTM, gradient boosting. You are at the frontier of ML dev stack.   
+
+##
+
+
