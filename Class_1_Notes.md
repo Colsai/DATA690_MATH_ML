@@ -53,7 +53,7 @@ Any operation on data can be done with matrices
 - Easy to understand and do analysis with
 - SPan from linear regression to DNN
 
-### Why should DS care about linear algebra?
+## Why should DS care about linear algebra?
 
 ### Vectors and Matrices
 What is a vector?
