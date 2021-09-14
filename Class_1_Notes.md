@@ -60,9 +60,16 @@ What is a vector?
 - Extension of single dimension real numbers (scalars) to high dimensions
 (1, -2, 3.2) vs. 10
 
-Representation of a point in the real space w.r.t (0,0,0), or 
+Representation of a point in the real space with respect to (0,0,0)...
 
 *Scalar is a Scaling Vector*
 (1,1,2) x 2 = (2,2,4)
 
 Every scalar starts at the origin (0,0,0). 
+
+## Matrices
+- A bunch of vectors, BUT
+- Matrices typically represent functions/mappings for vectors.
+- E.g. M dot v becomes another vector or a scalar.
+
+Linear algebra: Generalizing basic algebra to higher origins. 
