@@ -42,3 +42,22 @@ Correlation also reduces feature space
 - Make sure in Pandas, number of features is less than 20.
 
 *Have to close the loop when you answer these questions*
+
+### Data representation using matrices
+Rows: Observations
+Columns: Features
+Any operation on data can be done with matrices
+
+### Efficiency, simplicity and generalizability
+- Cheap and fast to compute
+- Easy to understand and do analysis with
+- SPan from linear regression to DNN
+
+### Why should DS care about linear algebra?
+
+### Vectors and Matrices
+What is a vector?
+- Extension of single dimension real numbers (scalars) to high dimensions
+(1, -2, 3.2) vs. 10
+
+Representation of a point in the real space w.r.t (0,0,0), or 
