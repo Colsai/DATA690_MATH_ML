@@ -61,3 +61,8 @@ What is a vector?
 (1, -2, 3.2) vs. 10
 
 Representation of a point in the real space w.r.t (0,0,0), or 
+
+*Scalar is a Scaling Vector*
+(1,1,2) x 2 = (2,2,4)
+
+Every scalar starts at the origin (0,0,0). 
