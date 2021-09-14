@@ -22,7 +22,7 @@
 
 **Kudos to you:** You can hardcode advanced ML algorithms such as CNN, LSTM, gradient boosting. You are at the frontier of ML dev stack.   
 
-## Expectations
+## Expectations:
 1. You are expected to say "I don't understand. Please explain again."
 2. You are expected to ask "Why does this matter? What are the applications in practice?"
 3. You are expected to discuss with each other on and off the class. Explain your understanding to your fellow classmates, and raise and answer questions.
