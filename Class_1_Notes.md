@@ -30,4 +30,15 @@
 5. Every week, I will send out some short reading assignments (<1 hr/week). Textbook blocks, tech blogs, and/or youtube videos. You are expected to read/watch those.
 6. You are expected to care much more about learning than grade. 
 
+## Logistic Reg: Generalized Linear Reg
+Decision Tree fits better with non-linear data.
+Select Features? How?
+PCA (100) -> (10)
+Why PCA? Why 10?
+How do you do PCA?
+Correlation also reduces feature space
+- Corr(X, y)
+- Correlation Matrix to get a sense of relationships between independent/dependent variables.
+- Make sure in Pandas, number of features is less than 20.
 
+*Have to close the loop when you answer these questions*
