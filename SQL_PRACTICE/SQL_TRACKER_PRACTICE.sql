@@ -1,3 +1,5 @@
+--POSTGRESQL13
+
 '''
 DEFINE TABLE employee(report_from: INT, report_to: INT)
 
