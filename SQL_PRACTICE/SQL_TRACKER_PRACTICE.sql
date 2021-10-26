@@ -58,12 +58,12 @@ VALUES
   ;
 
 WITH recursive empcte
-AS (SELECT report_from, report_to, 1 AS subordinate_count
+AS (SELECT report_from, report_to, 1 AS level
 FROM employees
 
 UNION ALL
 
-SELECT e.report_from, e.report_to, m.subordinate_count + 1
+SELECT e.report_from, e.report_to, m.level + 1
 FROM employees e
 INNER JOIN empcte m ON e.report_from = m.report_to
 )
